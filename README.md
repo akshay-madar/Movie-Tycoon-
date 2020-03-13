@@ -1,4 +1,4 @@
-# Movie-Tycoon-
+# Movie-Tycoon : Big Data for movies 
 Problem Statement:
 Movie Tycoon is a platform which helps movie investors by providing insights on where and whom to invest the money on? 
 
